@@ -1,0 +1,10 @@
+D:\2024JerryC#\Gomoku\Gomoku\bin\Debug\Gomoku.exe.config
+D:\2024JerryC#\Gomoku\Gomoku\bin\Debug\Gomoku.exe
+D:\2024JerryC#\Gomoku\Gomoku\bin\Debug\Gomoku.pdb
+D:\2024JerryC#\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.AssemblyReference.cache
+D:\2024JerryC#\Gomoku\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+D:\2024JerryC#\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.cache
+D:\2024JerryC#\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+D:\2024JerryC#\Gomoku\Gomoku\obj\Debug\Gomoku.exe
+D:\2024JerryC#\Gomoku\Gomoku\obj\Debug\Gomoku.pdb
+D:\2024JerryC#\Gomoku\Gomoku\obj\Debug\Gomoku.FrmMain.resources
